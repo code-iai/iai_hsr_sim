@@ -1,0 +1,12 @@
+- git: 
+    local-name: iai_hsr_sim
+    uri: https://github.com/code-iai/iai_hsr_sim.git
+    version: master
+- git: 
+    local-name: hsr_description
+    uri: https://github.com/ToyotaResearchInstitute/hsr_description.git
+    version: master
+- git: 
+    local-name: hsr_meshes
+    uri: https://github.com/ToyotaResearchInstitute/hsr_meshes.git
+    version: master
