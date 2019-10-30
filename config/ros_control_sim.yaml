@@ -20,6 +20,9 @@ hardware_interface:
     - head_tilt_joint
     - wrist_flex_joint
     - wrist_roll_joint
+    - odom_x
+    - odom_y
+    - odom_t
 generic_hw_control_loop:
   loop_hz: &loop_rate 100
   cycle_time_error_threshold: 0.015
@@ -48,3 +51,6 @@ whole_body_controller:
     - head_tilt_joint
     - wrist_flex_joint
     - wrist_roll_joint
+    - odom_x
+    - odom_y
+    - odom_t
