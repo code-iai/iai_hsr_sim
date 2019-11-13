@@ -4,7 +4,7 @@
     version: master
 - git: 
     local-name: hsr_description
-    uri: https://github.com/ToyotaResearchInstitute/hsr_description.git
+    uri: https://github.com/code-iai/hsr_description.git
     version: master
 - git: 
     local-name: hsr_meshes
