@@ -9,3 +9,7 @@ wstool merge https://raw.githubusercontent.com/code-iai/iai_hsr_sim/master/rosin
 wstool update
 ```
 
+## How to start
+```
+roslaunch iai_hsr_sim ros_control_sim.launch
+```
