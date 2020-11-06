@@ -15,7 +15,6 @@
   <buildtool_depend>catkin</buildtool_depend>
   <!-- TODO: add version information -->
   <depend>hsr_description</depend>
-  <depend>iai_naive_kinematics_sim</depend>
   <depend>ros_control_boilerplate</depend>
   <depend>joint_trajectory_controller</depend>
   <depend>joint_state_controller</depend>
